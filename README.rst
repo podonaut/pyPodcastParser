@@ -220,3 +220,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     :alt: @mr_rigden
     :scale: 100%
     :target: https://twitter.com/mr_rigden
+
+
+.. image:: https://api.codacy.com/project/badge/Grade/f8b8b74ed992471d9bb2c167115bdb0f
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/gh/zosis/pyPodcastParser?utm_source=github.com&utm_medium=referral&utm_content=zosis/pyPodcastParser&utm_campaign=Badge_Grade_Dashboard
