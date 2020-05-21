@@ -1,3 +1,8 @@
+.. image:: https://travis-ci.org/zosis/pyPodcastParser.svg?branch=master
+    :target: https://travis-ci.org/zosis/pyPodcastParser
+.. image:: https://coveralls.io/repos/github/zosis/pyPodcastParser/badge.svg?branch=master
+    :target: https://coveralls.io/github/zosis/pyPodcastParser?branch=master
+
 ###############
 pyPodcastParser
 ###############
